@@ -7,6 +7,7 @@ Use Pythex to customize your weblog regex
 
 Example output:
 
+"""
 [*] Search 2 Results: HTTP Request Method Analytics
 [*] ============================================
 [*] 368 lines matched the regular expression
@@ -18,7 +19,7 @@ Example output:
 [*]                           POST: 8
 [*]                            PUT: 1
 [*] ============================================
-
+"""
 
 
 This was inspired by Joff Thyer's DNSLogStat script: https://github.com/yoda66/bind9_logstat
